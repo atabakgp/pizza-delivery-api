@@ -34,7 +34,7 @@ Features:
 | /api/checkout | POST | **queryString**: email **header**: token | none | Payment and send email |
 
 
-- set the environment variables
+- Config required
   ```text
   STRIPE_PK=YOUR_STRIPE_PUBLIC_KEY
   STRIPE_SK=YOUR_STRIPE_SECRET_KEY
