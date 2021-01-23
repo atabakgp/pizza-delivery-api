@@ -47,17 +47,17 @@ Features:
   $ node index.js
   ```
 
-  - Order Object:
-  ```console
-  '1': {
-    'id': string,
-    'size': string
-    'count' number
-  },
-  '2': {
-    'id': string,
-    'size': string
-    'count' number
-  },
-  ...
-  ```
+- Order Object:
+```console
+'1': {
+  'id': string,
+  'size': string
+  'count' number
+},
+'2': {
+  'id': string,
+  'size': string
+  'count' number
+},
+...
+```
