@@ -41,7 +41,7 @@ Features:
   MAILGUN_DOMAIN=YOUR_MAILGUN_DOMAIN
   MAILGUN_API_KEY=YOUR_MAILGUN_API_KEY
 
-- Run the proyect:
+- Run the project:
   ```console
   $ cd pizza-delivery-api
   $ node index.js
