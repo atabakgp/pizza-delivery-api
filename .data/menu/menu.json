@@ -1,0 +1,22 @@
+{
+  "1": {
+    "name": "Pizza 1",
+    "medium": 15,
+    "large": 20
+  },
+  "2": {
+    "name": "Pizza 2",
+    "medium": 12,
+    "large": 16
+  },
+  "3": {
+    "name": "Pizza 3",
+    "medium": 14,
+    "large": 18
+  },
+  "4": {
+    "name": "Pizza 4",
+    "medium": 9,
+    "large": 15
+  }
+}
